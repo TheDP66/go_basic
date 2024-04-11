@@ -1,0 +1,10 @@
+Initialize GO
+1. go mod init example.com/m/v2
+
+Run GO File (DEVELOPMENT):
+1. go run ./helloworld.go
+
+Build and Compile GO File (PRODUCTION):
+1. go build ./helloworld.go
+2. ./helloworld.exe
+
